@@ -10,7 +10,7 @@ Position: Team Lead
 Name of the Student: GaliguttaMaruthi Kumar Reddy 
 Learning Track: Developer
 Project Name: Build An Event Management System Using Salesforce (Dev)
-Trailhead Profile:
+Trailhead Profile :
 Developer Org Username:
 Developer Org Password:
 Position:
