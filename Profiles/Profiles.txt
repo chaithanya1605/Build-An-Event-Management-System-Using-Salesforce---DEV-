@@ -19,9 +19,9 @@ Position: Team Member
 Name of the Student: Malepati Kumar
 Learning Track: Developer
 Project Name: Build An Event Management System Using Salesforce (Dev)
-Trailhead Profile: 
-Developer Org Username:
-Developer Org Password:
+Trailhead Profile: https://www.salesforce.com/trailblazer/kumarmalapati
+Developer Org Username: kumar@gdctirupati.com
+Developer Org Password: Gayatri@123
 Position: Team Member
 
 
