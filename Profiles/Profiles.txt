@@ -7,16 +7,16 @@ Developer Org Password: Gayatri@123
 Position: Team Lead
 
 
-Name of the Student: GaliguttaMaruthi Kumar Reddy 
+Name of the Student: Galigutta Maruthi Kumar Reddy 
 Learning Track: Developer
 Project Name: Build An Event Management System Using Salesforce (Dev)
-Trailhead Profile :
-Developer Org Username:
-Developer Org Password:
-Position:
+Trailhead Profile : https://www.salesforce.com/trailblazer/maruthikumarreddygaligutta8917
+Developer Org Username: maruthikumar@gdcproject.com
+Developer Org Password: Gayatri@123
+Position: Team Member
 
 
-Name of the Student:
+Name of the Student: 
 Learning Track:
 Project Name: Build An Event Management System Using Salesforce (Dev)
 Trailhead Profile:
