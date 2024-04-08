@@ -16,7 +16,7 @@ Developer Org Password: Gayatri@123
 Position: Team Member
 
 
-Name of the Student: Malepati Kumar
+Name of the Student: Malapati Kumar
 Learning Track: Developer
 Project Name: Build An Event Management System Using Salesforce (Dev)
 Trailhead Profile: https://www.salesforce.com/trailblazer/kumarmalapati
@@ -25,7 +25,7 @@ Developer Org Password: Gayatri@123
 Position: Team Member
 
 
-Name of the Student: Ekambaram Mohan Raju
+Name of the Student: Ekambaram Mohan Raj
 Learning Track: Developer
 Project Name: Build An Event Management System Using Salesforce (Dev)
 Trailhead Profile: https://www.salesforce.com/trailblazer/smilyraju
@@ -34,7 +34,7 @@ Developer Org Password: Gayatri@123
 Position: Team Member
 
 
-Name of the Student: Leela varun
+Name of the Student: Kommineni Leela varun
 Learning Track: Developer
 Project Name: Build An Event Management System Using Salesforce (Dev)
 Trailhead Profile: https://www.salesforce.com/trailblazer/leelavarunkommineni
