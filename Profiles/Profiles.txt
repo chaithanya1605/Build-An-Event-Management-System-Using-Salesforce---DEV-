@@ -2,7 +2,7 @@ Name of the Student: Nune Chaithanya
 Learning Track: Developer
 Project Name: Build An Event Management System Using Salesforce (Dev)
 Trailhead Profile: https://www.salesforce.com/trailblazer/nunechaithanya
-Developer Org Username: chaithanya@gdcproject.com
+Developer Org Username: chaithanya@gdctirupati.com
 Developer Org Password: Gayatri@123
 Position: Team Lead
 
